@@ -63,5 +63,5 @@ target4.y=0
 version=3.0.0
 width=775
 world.lastInstantiated=CrabWorld
-xPosition=42
-yPosition=120
+xPosition=0
+yPosition=25
